@@ -5,8 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/samsung/gtaxllte
-
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_gtaxllte.mk
 
