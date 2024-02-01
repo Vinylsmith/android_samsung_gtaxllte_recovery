@@ -110,3 +110,10 @@ TW_NO_EXFAT_FUSE := true
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TW_USE_TOOLBOX := true
+
+# SHRP Flags
+SHRP_PATH := device/samsung/gtaxllte
+SHRP_MAINTAINER := SeifHecker2099
+SHRP_DEVICE_CODE := gtaxllte
+SHRP_DARK := true
+SHRP_EDL_MODE := 0
