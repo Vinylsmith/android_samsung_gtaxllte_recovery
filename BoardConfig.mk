@@ -110,3 +110,5 @@ TW_NO_EXFAT_FUSE := true
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TW_USE_TOOLBOX := true
+
+PB_TORCH_PATH := "/sys/class/flashlight"
