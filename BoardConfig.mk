@@ -111,4 +111,4 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TW_USE_TOOLBOX := true
 
-PB_TORCH_PATH := "/sys/class/flashlight"
+PB_TORCH_PATH := "/sys/class/flashlight/sm-flash-led"
