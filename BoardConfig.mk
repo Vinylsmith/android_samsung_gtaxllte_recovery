@@ -122,5 +122,3 @@ SHRP_INTERNAL := /sdcard
 SHRP_OTG := /usb-otg
 SHRP_FLASH := 1
 SHRP_FONP_1 := /sys/devices/13870000.i2c/i2c-4/4-0049/sm5703-fled/sm-flash-led/flashlight
-SHRP_FONP_2 := /sys/class/flashlight
-SHRP_FONP_3 := /sys/module/flashlight
