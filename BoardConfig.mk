@@ -111,4 +111,4 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TW_USE_TOOLBOX := true
 
-PB_TORCH_PATH := "/sys/devices/13870000.i2c/i2c-4/4-0049/sm5703-fled/sm-flash-led/flashlight"
+PB_TORCH_PATH := "/sys/class/camera/flash"
