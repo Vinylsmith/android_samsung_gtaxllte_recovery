@@ -58,7 +58,6 @@ TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/kernel
 TARGET_PREBUILT_DT := $(DEVICE_PATH)/prebuilt/dt.img
 BOARD_MKBOOTIMG_ARGS += --dt $(TARGET_PREBUILT_DT)
 BOARD_KERNEL_SEPARATED_DT := false
-LZMA_RAMDISK_TARGETS := recovery
 endif
 
 # Partitions
