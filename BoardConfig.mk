@@ -110,3 +110,4 @@ TARGET_USES_LOGD := true
 TW_USE_TOOLBOX := true
 
 PB_TORCH_PATH := "/sys/class/camera/flash/rear_flash"
+PB_TORCH_MAX_BRIGHTNESS := 1
